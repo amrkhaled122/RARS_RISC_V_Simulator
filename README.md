@@ -1,4 +1,4 @@
-# RARS_RISC-V Simulator 
+# RARS-RISC-V Simulator 
 
 This repository contains the source code, documentation, and testing files for a RARS_RISC-V. The project simulates various algorithms and includes comprehensive testing to ensure functionality.
 
