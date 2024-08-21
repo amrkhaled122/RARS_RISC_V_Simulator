@@ -20,7 +20,7 @@ This repository contains the source code, documentation, and testing files for a
      1. Fibonacci sequence.
      2. Maximum in array.
      3. String length.
-     4. Binary search.
+     4. Binary search.inst
      5. Array sorting.
      6. Array reversal.
      7. Instructions for testing all components.
@@ -28,7 +28,8 @@ This repository contains the source code, documentation, and testing files for a
   
 ## Getting Started
 
-1. **Compilation:** Compile the `project_1.cpp` file using your preferred C++ compiler.
-2. **Execution:** Run `project_1.exe` or the compiled executable to generate results.
-3. **Testing:** Execute the tests located in the `tests` directory to validate the implementation.
+1. **Compilation:** Compile the `RISC_V_Simulator.cpp` file using your preferred C++ compiler by by pasting or writing your own code to be simulate inside `instructions.txt` file and your desired pre-loaded data in `data.txt` file that must reside in the same directory as the project itself .
+2. **Execution:** Run `RISC_V_Simulator.cpp.exe` or the compiled executable to generate results.
+3. **Testing:** Execute the tests located in the `tests` directory to validate the implementation by copying instructions code and data code inside the local instructions and data files for the simualtor itself
+   .
 
